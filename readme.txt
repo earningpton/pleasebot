@@ -1,5 +1,8 @@
 		
 		****** Only Compatible with Windows 10 ******
+		
+# For people who just want to try out the program
+Please download pleasebot.zip and extract to try out!
 
 ################################################################################
    #####               		-PLEASE BOT 1.00"-			#####
