@@ -3,7 +3,7 @@
 		
 # For people who just want to try out the program
 Please download pleasebot.zip and extract to try out!
-
+or through <a> https://mega.nz/#!kUUyAI7Z <a/>
 ################################################################################
    #####               		-PLEASE BOT 1.00"-			#####
 ################################################################################
