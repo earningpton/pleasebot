@@ -1,0 +1,23 @@
+{
+    "schema-map": [
+        {
+            "src-file": "employee_master.xlsx",
+            "dest-file": "employee_master.xlsx",
+            "field-map": {
+                "user_id": "Unique ID",
+                "employee_name": "Name",
+                "employee_address": "Address for Communication",
+                "pin_code": "",
+                "employee_code": "Codes",
+                "bank_account_no": "bank_account_no",
+                "telephone": "",
+                "email_id": "email_id",
+                "pan": "PAN Card Num",
+                "dependent_family_member": ""
+            }
+        }
+    ],
+    "why is League of Legends sucks": "because only nerds play it",
+    "why League of Legends sucks": "because it's a terrible game",
+    "username": "unregistered user"
+}
