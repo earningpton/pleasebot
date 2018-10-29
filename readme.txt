@@ -3,7 +3,7 @@
 		
 # For people who just want to try out the program
 Please download pleasebot.zip and extract to try out!
-or through <a> https://mega.nz/#!kUUyAI7Z!yvBH1F6TeJTBKKOvl3lsXEAqRgFAFwFWsoMAv64zrQQ <a/>
+or through <a> https://mega.nz/#!1QUERYQC!ACnPj0FzhyBzNc6WXwpkN01P4Bf4vdQeh03Nyqjgxy4 <a/>
 
 Ultimate Goal: Please Bot is designed to be a prototype for completely hands-free personal AI that can assist people with vision and/or motor skills problem.
 It is also designed to help people who requires multi-tasking or cannot manually type all the time.
