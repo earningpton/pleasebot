@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['pleasebot.py'],
-             pathex=['C:\\Users\\Woramanot\\PycharmProjects\\Jarvis'],
+             pathex=['C:\\Users\\Woramanot\\Documents\\GitHub\\pleasebot'],
              binaries=[],
              datas=[],
              hiddenimports=[],

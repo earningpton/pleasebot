@@ -4,8 +4,12 @@
 # For people who just want to try out the program
 Please download pleasebot.zip and extract to try out!
 or through <a> https://mega.nz/#!kUUyAI7Z!yvBH1F6TeJTBKKOvl3lsXEAqRgFAFwFWsoMAv64zrQQ <a/>
+
+Ultimate Goal: Please Bot is designed to be a prototype for completely hands-free personal AI that can assist people with vision and/or motor skills problem.
+It is also designed to help people who requires multi-tasking or cannot manually type all the time.
+
 ################################################################################
-   #####               		-PLEASE BOT 1.00"-			#####
+   #####               		-PLEASE BOT 1.01"-			#####
 ################################################################################
 #####		             .  _    .-.. 
 ##### 		             ( `' ;  .( ; ; 
@@ -30,11 +34,12 @@ Art Credit:http://ascii.co.uk and www.asciiart.eu
 
 Readme:
 For the first time user you should say "please override username" and then say your name to personalize the bot
+If you don't like to say magic word "please", you can say "please override magic word" and tell the bot your new magic word
 
 Don't turn your sound off or the program will shut down
 Please forward any bug in the program to <a> yomjinda@princeton.edu </a>
 
-Functionality Summary: Please Bot is a windows 10-based chatbot and personal assistant in one package, created in Python 3.6 but require no Python to run whatsoever. It can access internet and desired website quickly through voice-based command, tell a joke, learn a one liner, and even swear back at you for using bad words. 
+Functionality Summary: Please Bot is a windows 10-based chatbot and personal assistant in one package, created in Python 3.6 but require no Python to run whatsoever. It can access internet and desired website quickly through voice-based command, tell a joke, learn a one liner, and even swear back at you for using bad words.
 
 ################################################################################
    #####               		  -How to Use-			        #####

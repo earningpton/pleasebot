@@ -12,6 +12,12 @@ def getusername():
         data = json.load(f)
     return(data.get('username'))
 
+def getmagicword():
+    filename = 'knowledge.json'
+    with open(filename, "r") as f:
+        data = json.load(f)
+    return(data.get('magic word'))
+
 def learning(data):
     data = data.split(" ")
     data = data[data.index("me") + 1:]

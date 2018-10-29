@@ -13,19 +13,19 @@ import webbased #import search, browse
 import jsonupdater
 from soundfunc import speak, recordAudio
 
-def jarvis(data):
+def pleasebot(data):
     if "s***" in data:
         speak("stop that or I will kick your ass!")
     if "f***" in data:
-        speak("Hey, fuck you too!")
+        speak("Hey, f you too!")
     if "bitch" in data:
-        speak('Stop saying bitch!')
+        speak('Stop saying that!')
     if "c***" in data:
         speak("No that is a bad word!")
     #if "garbage" in data:
      #   speak("That is not nice!")
 
-    if "hi" in data or "hey" in data or "hello" in data or "what's up" in data:
+    if "hi please bot" in data or "hey please bot" in data or "hello please bot" in data or "what's up please bot" in data:
         speak("Hello! Hello Hello!")
     #if "plus" in data:
      #   speak("I am a personal assistant not a fucking calculator")
@@ -100,6 +100,7 @@ def jarvis(data):
 # initialization
 time.sleep(2)
 username = jsonupdater.getusername()
+magicword = jsonupdater.getmagicword()
 #username = ""
 print("              .  _    .-..")
 print("             ( `' ;  .( ; ;")
@@ -113,15 +114,15 @@ print("        \SSSSSSSS; SSSSSSSSSSSSSSP")
 print("         \SSSSSSS| SSSSSSSSSSSSSP")
 print("          )SSSSSS_SSSSSSSSSSSSSS(")
 print("          Y--               ---P")
-print("           \ ____.G._          _/     )   -PLEASE BOT 1.00")
-print("  _.,cccccd%SSSSSSSSSSSSSSSSS%dcccc,._")
-print("(SSSSSSSSSSSSSSSSSSSSSSSSS$SSSSSSSSSSSS)")
+print("           \ ____.G._          _/     )   -PLEASE BOT 1.01")
+print("  _.,cccccd%SSSSSSSSSSSSSSSSS%dcccc,._ Your Friendly, Almost Hands-free Bot by")
+print("(SSSSSSSSSSSSSSSSSSSSSSSSS$SSSSSSSSSSSS)  Woramanot Yomjinda")
 print("  `------Y-'                  `-SSSSSSP-)-)")
 
 speak("Hi " + username + ", what can I do for you?")
 while 1:
     data = recordAudio()
-    if "please" in data or "would you kindly" in data:
-        jarvis(data)
+    if magicword in data or "would you kindly" in data:
+        pleasebot(data)
     if "that's good for today" in data:
         sys.exit()
